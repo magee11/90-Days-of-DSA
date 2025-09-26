@@ -18,3 +18,10 @@ var findErrorNums = function(nums) {
 
     return [duplicate, missing];
 };
+
+
+
+
+
+
+
